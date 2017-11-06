@@ -1,4 +1,4 @@
-FROM heartysoft/docker-builder-aws:0.18.0
+FROM heartysoft/docker-builder-aws:0.18.1
 MAINTAINER luis@bigcente.ch
 
 ENV ALPINE_JAVA_VERSION=8.131.11-r2
